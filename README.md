@@ -1,2 +1,2 @@
 # bootstrap_grid_intro
-practice day 10
+https://emamulhassan.github.io/bootstrap_grid_intro/
